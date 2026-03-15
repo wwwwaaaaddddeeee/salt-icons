@@ -1,0 +1,14 @@
+<!-- Salt Icons -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+<path d="M17 18a5 5 0 0 0-3.6-4.8"/><circle cx="12" cy="9" r="4"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="18.36" y1="4.64" x2="16.95" y2="6.05"/><line x1="20" y1="11" x2="22" y2="11"/><path d="M7.05 6.05L5.64 4.64"/><line x1="2" y1="11" x2="4" y2="11"/><path d="M7 18h10"/><path d="M5 21h14"/>
+</svg>
